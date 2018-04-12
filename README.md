@@ -1,2 +1,3 @@
 # rails-test-repo
-My first repository
+My first repository. Exploring MarkDown.
+
